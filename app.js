@@ -1,6 +1,6 @@
 // ── Data ──────────────────────────────────────────────────
 // Catégories d'intérêts pour mise en avant des affinités fortes
-const INTEREST_CATEGORIES = {
+const  STRIPE_PUBLIC_KEY = pk_test_51Tif2XJDGBdPmykseDTTyUJjfYwxeRvNm9Kf7vBjztuLWPnRtua95qdUnio1XKb7Xvb1QRoRTtyUsymFJHJQ2vbL00hbmOLKfY
   sport:   { icon:'⚽', label:'Sport' },
   cuisine: { icon:'🍳', label:'Cuisine' },
   art:     { icon:'🎨', label:'Art & Culture' },
